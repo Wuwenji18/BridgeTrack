@@ -269,20 +269,6 @@ All eight module combinations share identical frozen ViT-B backbones, training s
   <sub><b>Figure 9.</b> Raw CENTER localization response maps comparing DropTrack and BridgeTrack (Ours) on four recovery frames, demonstrating sharpened unimodal target activation and distractor suppression directly at the feature representation level.</sub>
 </div>
 
----
-
-## 📚 Citation
-
-If you find this work helpful for your research, please consider citing:
-
-```bibtex
-@article{wang2026bridgetrack,
-  title   = {BridgeTrack: Bridging Optical Blackouts via Sonar-Guided Correspondence, Factorized States, and Appearance Memory},
-  author  = {Wang, Zhuo and Wu, Wenji and Zhu, Zhongben and Mu, Xiaokai},
-  journal = {Knowledge-Based Systems (Under Review)},
-  year    = {2026}
-}
-```
 
 ---
 
@@ -293,5 +279,5 @@ Our work builds upon the open-source foundation of [DropTrack (DropMAE)](https:/
 ## 📬 Contact
 
 For questions regarding the paper or upcoming release, please contact:
-- **Zhuo Wang** (First Author): [wangzhuo@hrbeu.edu.cn](mailto:wangzhuo@hrbeu.edu.cn)
-- **Xiaokai Mu** (Corresponding Author): [muxiaokai@hrbeu.edu.cn](mailto:muxiaokai@hrbeu.edu.cn)
+
+- **Wenji Wu**: [wuwenji@hrbeu.edu.cn](mailto:wuweji@hrbeu.edu.cn)
