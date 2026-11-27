@@ -269,25 +269,6 @@ All eight module combinations share identical frozen ViT-B backbones, training s
   <sub><b>Figure 9.</b> Raw CENTER localization response maps comparing DropTrack and BridgeTrack (Ours) on four recovery frames, demonstrating sharpened unimodal target activation and distractor suppression directly at the feature representation level.</sub>
 </div>
 
-<<<<<<< HEAD
----
-
-## 📚 Citation
-
-If you find this work helpful for your research, please consider citing:
-
-```bibtex
-@article{wang2026bridgetrack,
-  title   = {BridgeTrack: Sonar-Guided Underwater Visual Tracking across Optical Blackouts},
-  author  = {Wang, Zhuo and Wu, Wenji and Zhu, Zhongben and Mu, Xiaokai},
-  journal = {Knowledge-Based Systems (Under Review)},
-  year    = {2026}
-}
-```
-=======
->>>>>>> 5679ce65a0ff132b17a17ddb8f479b18ff59ce36
-
----
 
 ## 🙏 Acknowledgements
 
