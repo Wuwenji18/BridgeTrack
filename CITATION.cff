@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you find BridgeTrack useful in your research, please consider citing our paper."
+title: "BridgeTrack: Sonar-Guided Underwater Visual Tracking across Optical Blackouts"
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "Zhuo"
+    email: "wangzhuo@hrbeu.edu.cn"
+    affiliation: "College of Shipbuilding Engineering, Harbin Engineering University"
+  - family-names: "Wu"
+    given-names: "Wenji"
+    email: "wuwenji@hrbeu.edu.cn"
+    affiliation: "College of Shipbuilding Engineering, Harbin Engineering University"
+  - family-names: "Zhu"
+    given-names: "Zhongben"
+    email: "zhuzhongben@hrbeu.edu.cn"
+    affiliation: "College of Shipbuilding Engineering, Harbin Engineering University"
+  - family-names: "Mu"
+    given-names: "Xiaokai"
+    email: "muxiaokai@hrbeu.edu.cn"
+    affiliation: "College of Shipbuilding Engineering, Harbin Engineering University; Yangtze Delta Region Advanced Research Institute of Harbin Engineering University"
+repository-code: "https://github.com/Wuwenji18/BridgeTrack"
+license: MIT
+keywords:
+  - "RGB-sonar tracking"
+  - "tracking recovery"
+  - "cross-modal correspondence"
+  - "factorized target state"
+  - "appearance memory"
+  - "underwater vision"
+preferred-citation:
+  type: article
+  title: "BridgeTrack: Sonar-Guided Underwater Visual Tracking across Optical Blackouts"
+  authors:
+    - family-names: "Wang"
+      given-names: "Zhuo"
+    - family-names: "Wu"
+      given-names: "Wenji"
+    - family-names: "Zhu"
+      given-names: "Zhongben"
+    - family-names: "Mu"
+      given-names: "Xiaokai"
+  journal: "Knowledge-Based Systems (Under Review)"
+  year: 2026
