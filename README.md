@@ -269,6 +269,7 @@ All eight module combinations share identical frozen ViT-B backbones, training s
   <sub><b>Figure 9.</b> Raw CENTER localization response maps comparing DropTrack and BridgeTrack (Ours) on four recovery frames, demonstrating sharpened unimodal target activation and distractor suppression directly at the feature representation level.</sub>
 </div>
 
+---
 
 ## 🙏 Acknowledgements
 
